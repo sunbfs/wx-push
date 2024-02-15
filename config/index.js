@@ -1,8 +1,8 @@
 module.exports = {
-  appid: "wx2884e4c91266b27f",
-  appsecret: "351f797358cc67e68afa574b1aef7bc3",
-  template_id: "wBLsNlKwEH_XUbsUR3GkeHaXi6QwqI28lPYeY40wnRU",
-  touser: "ovhYX6VfQJxolWdR5thrrvDBre8M",
+  appid: "wx2d5d3c63db5ecba9",
+  appsecret: "1759509e5656b1bb9128c6ddf7db41e5",
+  template_id: "q5lV43uqhrmPvO0Jor83QVAcDimM1R74rZ8QrAbxm2M",
+  touser: "oPBB9jndc9yYx-cBP60xVB0PZWOc",
 
   key: "201c93c2e2b34bdeecdbf9f5265eb84e",
   city: "西安",
